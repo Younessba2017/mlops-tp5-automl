@@ -12,3 +12,6 @@ mlflow.db
 mlflow.db-*
 mlartifacts/
 mlruns/
+
+# Journal genere par FLAML
+reports/flaml_tp5.log
