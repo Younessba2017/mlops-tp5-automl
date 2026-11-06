@@ -1,0 +1,14 @@
+# Environnement virtuel et caches Python
+.venv/
+__pycache__/
+*.pyc
+
+# Donnees generees et copies locales des modeles
+data/
+models/
+
+# Stockage local MLflow
+mlflow.db
+mlflow.db-*
+mlartifacts/
+mlruns/
